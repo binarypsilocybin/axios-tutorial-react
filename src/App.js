@@ -1,6 +1,5 @@
 import Title from "./components/Title";
-import Setup from "./examples/4-global-instance";
-import "./global/global";
+import Setup from "./examples/5-custom-instance";
 
 function App() {
   return (
